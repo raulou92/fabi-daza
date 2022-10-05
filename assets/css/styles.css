@@ -1,0 +1,12 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+.logo {
+    width: 200px;
+}
+
+ul li a:hover{
+    transform: scale(1.25);
+    transition: 0.5s;
+    
+}

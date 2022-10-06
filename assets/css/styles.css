@@ -30,4 +30,10 @@ ul li a:hover{
  #about .avatar{
     width: 300px;
     border-radius: 50%;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.6);
+ }
+ .card img:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
+
  }

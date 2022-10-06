@@ -32,8 +32,11 @@ ul li a:hover{
     border-radius: 50%;
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.6);
  }
- .card img:hover{
+ .card:hover{
     transform: scale(1.05);
     transition: 0.5s;
-
  }
+
+ .progress {
+    height: 10px;
+}
